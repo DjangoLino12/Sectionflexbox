@@ -1,2 +1,0 @@
-# Sectionflexbox
-Created with CodeSandbox
